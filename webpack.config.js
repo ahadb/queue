@@ -5,7 +5,7 @@ const path = require("path");
 const yargs = require("yargs");
 const env = yargs.argv.env; // use --env with webpack 2
 const pkg = require("./package.json");
-const shouldExportToAMD = yargs.argv.amd;
+const shouldExportToAMD = yargs.argv.umd;
 
 let libraryName = "queue";
 
