@@ -8,11 +8,16 @@ Implementation of a queue (...based on arrays) in JavaScript in first-in-first-o
 
 NPM:
 
-To be published on NPM soon
+`npm install another-queue`
 
 ## Use
 
-To be published on NPM soon
+```javascript
+import Queue from 'another-queue';
+
+const Queue = new Queue();
+// ...ß
+```
 
 
 ## API
