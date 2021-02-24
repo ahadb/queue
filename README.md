@@ -13,7 +13,7 @@ NPM:
 ## Use
 
 ```javascript
-import Queue from 'another-queue';
+import Queue from 'other-queue';
 
 const Queue = new Queue();
 // ...ß
